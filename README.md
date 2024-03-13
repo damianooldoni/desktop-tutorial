@@ -6,3 +6,6 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 Damiano
 
 ## Tutorial basics
+
+`.md` extension means Markdown. GitHub uses **Markdown** _syntax_.
+
